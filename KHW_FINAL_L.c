@@ -2,7 +2,7 @@
 
 List* listOfDietOnmemory;
 
-//data.txt에 저장하는 함수.
+// data.txt에 저장하는 함수.
 int writeDataToFile()
 {
 	FILE* fp;

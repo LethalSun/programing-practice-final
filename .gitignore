@@ -2,3 +2,4 @@
 /Debug/
 *.db
 /x64/
+*.opendb
